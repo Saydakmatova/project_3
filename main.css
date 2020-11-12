@@ -142,3 +142,17 @@ p{
 .btn--red:hover{
 	background-color: #dd3434;
 }
+.features{
+	display: flex;
+	margin: 100px 0;
+}
+.features__item{
+	width: 33.3333%;
+	text-align: center;
+}
+.features__icon{
+	margin-bottom: 20px;
+}
+.features__title{
+	font-size: 14px; 
+}
